@@ -26,9 +26,16 @@ def listar_imagens(caminho):
 
 def ler_legendas(caminho_legendas):
     if not os.path.exists(caminho_legendas):
-        return []
+        return {}
+
+    legenda_dict = {}
     with open(caminho_legendas, encoding="utf-8") as f:
-        return [linha.strip() for linha in f.readlines() if linha.strip()]
+        for linha in f:
+            linha = linha.strip()
+            if "|" in linha:
+                nome_arquivo, legenda = linha.split("|", 1)
+                legenda_dict[nome_arquivo.strip()] = legenda.strip()
+    return legenda_dict
 
 
 def processar_periodo(periodo_path):
@@ -43,10 +50,10 @@ def processar_periodo(periodo_path):
         legendas = ler_legendas(os.path.join(eixo_path, "galeria", "legendas.txt"))
 
         galeria = []
-        for i, img in enumerate(imagens):
+        for img in imagens:
             galeria.append({
                 "arquivo": img,
-                "legenda": legendas[i] if i < len(legendas) else ""
+                "legenda": legendas.get(img, "")
             })
 
         resultado[eixo] = {

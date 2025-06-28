@@ -5,15 +5,15 @@
     "galeria": [
       {
         "arquivo": "migracao_italiana.jpg",
-        "legenda": "propaganda_nazista.jpg|Cartaz de propaganda do Partido Nazista (NSDAP) convocando eleitores com o lema “Liberdade e Pão”, reforçando discursos de pureza racial e nacionalismo racializado."
+        "legenda": "Cartaz da companhia La Veloce promovendo a imigração italiana para o Brasil, alinhada às políticas de branqueamento populacional nas primeiras décadas da República."
       },
       {
         "arquivo": "navios-de-imigrantes-italianos.webp",
-        "legenda": "migracao_italiana.jpg|Cartaz da companhia La Veloce promovendo a imigração italiana para o Brasil, alinhada às políticas de branqueamento populacional nas primeiras décadas da República."
+        "legenda": "Fotografia de navio trazendo imigrantes europeus ao Brasil, representando a política seletiva de imigração da época, que favorecia brancos europeus como parte do projeto eugenista."
       },
       {
         "arquivo": "propaganda_nazista.jpg",
-        "legenda": "navios-de-imigrantes-italianos.webp|Fotografia de navio trazendo imigrantes europeus ao Brasil, representando a política seletiva de imigração da época, que favorecia brancos europeus como parte do projeto eugenista."
+        "legenda": "Cartaz de propaganda do Partido Nazista (NSDAP) convocando eleitores com o lema “Liberdade e Pão”, reforçando discursos de pureza racial e nacionalismo racializado."
       }
     ]
   },
@@ -28,7 +28,7 @@
     "galeria": [
       {
         "arquivo": "renato_kehl.jpg",
-        "legenda": "renato_kehl.jpg| Renato Kehl"
+        "legenda": "Renato Kehl"
       }
     ]
   },
@@ -38,7 +38,7 @@
     "galeria": [
       {
         "arquivo": "oswaldo_cruz.jpg",
-        "legenda": "oswaldo_cruz.jpg|Médico sanitarista responsável pelas reformas de higienização urbana no Rio de Janeiro, que embora importantes para a saúde pública, resultaram na expulsão de populações pobres e negras do centro."
+        "legenda": "Médico sanitarista responsável pelas reformas de higienização urbana no Rio de Janeiro, que embora importantes para a saúde pública, resultaram na expulsão de populações pobres e negras do centro."
       }
     ]
   }

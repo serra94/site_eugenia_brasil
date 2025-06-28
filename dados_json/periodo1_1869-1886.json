@@ -5,11 +5,11 @@
     "galeria": [
       {
         "arquivo": "charge.png",
-        "legenda": "gabinete.jpg|Allegoria da Lei do Ventre Livre (1871), exaltando ministros do Império e retratando a abolição parcial como ato civilizador, com destaque à figura da Liberdade abençoando mãe e filho negros."
+        "legenda": "Charge “The White Man’s Burden” (1899), que satiriza o imperialismo europeu e americano, retratando povos colonizados como fardos carregados rumo à “civilização” por figuras ocidentais — expressão visual do racismo e da missão civilizatória eugenista."
       },
       {
         "arquivo": "gabinete.jpg",
-        "legenda": "charge.png|Charge “The White Man’s Burden” (1899), que satiriza o imperialismo europeu e americano, retratando povos colonizados como fardos carregados rumo à “civilização” por figuras ocidentais — expressão visual do racismo e da missão civilizatória eugenista."
+        "legenda": "Allegoria da Lei do Ventre Livre (1871), exaltando ministros do Império e retratando a abolição parcial como ato civilizador, com destaque à figura da Liberdade abençoando mãe e filho negros."
       }
     ]
   },
@@ -19,15 +19,15 @@
     "galeria": [
       {
         "arquivo": "capa.jpg",
-        "legenda": "capa.jpg|Capa decorada da publicação oficial da Lei do Ventre Livre (1871), usada para simbolizar o marco legal da abolição parcial e a atuação do Estado imperial."
+        "legenda": "Capa decorada da publicação oficial da Lei do Ventre Livre (1871), usada para simbolizar o marco legal da abolição parcial e a atuação do Estado imperial."
       },
       {
         "arquivo": "manuscrito_lei.jpg",
-        "legenda": "trecho_lei.jpg|Trecho da Lei nº 2.040 de 28 de setembro de 1871, declarando livres os filhos de mulheres escravizadas nascidos a partir daquela data — embora sob tutela compulsória."
+        "legenda": "Manuscrito original da Lei do Ventre Livre com assinatura de Dom Pedro II, revelando a ambiguidade da norma: liberdade legal combinada com trabalho forçado até a vida adulta."
       },
       {
         "arquivo": "trecho_lei.jpg",
-        "legenda": "manuscrito_lei.jpg|Manuscrito original da Lei do Ventre Livre com assinatura de Dom Pedro II, revelando a ambiguidade da norma: liberdade legal combinada com trabalho forçado até a vida adulta."
+        "legenda": "Trecho da Lei nº 2.040 de 28 de setembro de 1871, declarando livres os filhos de mulheres escravizadas nascidos a partir daquela data — embora sob tutela compulsória."
       }
     ]
   },
@@ -37,19 +37,19 @@
     "galeria": [
       {
         "arquivo": "800px-Silvio_Romero.jpg",
-        "legenda": "darwin_1.jpg|Retrato de Charles Darwin (1809–1882), naturalista britânico cuja teoria da seleção natural foi posteriormente distorcida por pensadores eugenistas para justificar hierarquias sociais e raciais."
+        "legenda": "Retrato de Sílvio Romero (1851–1914), crítico, ensaísta e político brasileiro. Foi um dos principais pensadores do século XIX a difundir no Brasil ideias raciais e evolucionistas, associando miscigenação à degeneração e defendendo o branqueamento como caminho para o progresso nacional."
       },
       {
         "arquivo": "Sir_Francis_Galton,_1890s.jpg",
-        "legenda": "herbert.jpg|Retrato de Herbert Spencer (1820–1903), filósofo britânico que popularizou o conceito de “sobrevivência dos mais aptos”, base para o darwinismo social e influente nas formulações eugenistas do século XIX."
+        "legenda": "Retrato de Francis Galton (1822–1911), criador do termo “eugenia” e defensor da intervenção estatal para aprimorar geneticamente a população humana."
       },
       {
         "arquivo": "darwin_1.jpg",
-        "legenda": "Sir_Francis_Galton,_1890s.jpg|Retrato de Francis Galton (1822–1911), criador do termo “eugenia” e defensor da intervenção estatal para aprimorar geneticamente a população humana."
+        "legenda": "Retrato de Charles Darwin (1809–1882), naturalista britânico cuja teoria da seleção natural foi posteriormente distorcida por pensadores eugenistas para justificar hierarquias sociais e raciais."
       },
       {
         "arquivo": "herbert.jpg",
-        "legenda": "800px-Silvio_Romero.jpg|Retrato de Sílvio Romero (1851–1914), crítico, ensaísta e político brasileiro. Foi um dos principais pensadores do século XIX a difundir no Brasil ideias raciais e evolucionistas, associando miscigenação à degeneração e defendendo o branqueamento como caminho para o progresso nacional."
+        "legenda": "Retrato de Herbert Spencer (1820–1903), filósofo britânico que popularizou o conceito de “sobrevivência dos mais aptos”, base para o darwinismo social e influente nas formulações eugenistas do século XIX."
       }
     ]
   },
@@ -59,11 +59,11 @@
     "galeria": [
       {
         "arquivo": "charge.png",
-        "legenda": "charge.png|Charge “The White Man’s Burden” (1899), que satiriza o imperialismo europeu e americano, retratando povos colonizados como fardos carregados rumo à “civilização” por figuras ocidentais — expressão visual do racismo e da missão civilizatória eugenista."
+        "legenda": "Charge “The White Man’s Burden” (1899), que satiriza o imperialismo europeu e americano, retratando povos colonizados como fardos carregados rumo à “civilização” por figuras ocidentais — expressão visual do racismo e da missão civilizatória eugenista."
       },
       {
         "arquivo": "hereditarygeniuscover.jpg",
-        "legenda": "hereditarygeniuscover.jpg|Edição original de Hereditary Genius (1869), obra de Francis Galton que marcou o início formal da eugenia como “ciência” da hereditariedade e do aprimoramento humano."
+        "legenda": "Edição original de Hereditary Genius (1869), obra de Francis Galton que marcou o início formal da eugenia como “ciência” da hereditariedade e do aprimoramento humano."
       }
     ]
   }

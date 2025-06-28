@@ -5,11 +5,11 @@
     "galeria": [
       {
         "arquivo": "bebe_eugenico.jpg",
-        "legenda": "bebe_eugenico.jpg|Concurso de Eugenia promovido pela Inspetoria de Educação Sanitária em São Paulo, 1929. Crianças eram avaliadas com base em critérios físicos sob orientação médica e ideológica eugênica."
+        "legenda": "Concurso de Eugenia promovido pela Inspetoria de Educação Sanitária em São Paulo, 1929. Crianças eram avaliadas com base em critérios físicos sob orientação médica e ideológica eugênica."
       },
       {
         "arquivo": "congresso.png",
-        "legenda": "congresso.png|Documento de convocação do Primeiro Congresso Brasileiro de Eugenia, realizado em 1929. O evento reuniu lideranças médicas e científicas que defenderam políticas de controle populacional e racial."
+        "legenda": "Documento de convocação do Primeiro Congresso Brasileiro de Eugenia, realizado em 1929. O evento reuniu lideranças médicas e científicas que defenderam políticas de controle populacional e racial."
       }
     ]
   },
@@ -24,23 +24,23 @@
     "galeria": [
       {
         "arquivo": "arthur.jpg",
-        "legenda": "renato.jpeg|Renato Kehl – Médico e principal difusor da eugenia no Brasil, fundador da Sociedade Eugênica de São Paulo e editor do Boletim de Eugenia."
+        "legenda": "Arthur Neiva – Médico e cientista, atuante nos debates sobre saúde pública e eugenia, ligado à Sociedade Eugênica de São Paulo."
       },
       {
         "arquivo": "monteiro.jpeg",
-        "legenda": "monteiro.jpeg|Monteiro Lobato – Escritor influente que difundiu ideias eugênicas em obras infantis e artigos, defensor do branqueamento populacional."
+        "legenda": "Monteiro Lobato – Escritor influente que difundiu ideias eugênicas em obras infantis e artigos, defensor do branqueamento populacional."
       },
       {
         "arquivo": "oliveira.jpg",
-        "legenda": "oliveira.jpg|Oliveira Vianna – Jurista e sociólogo, defensor da imigração europeia seletiva com base em ideias eugênicas e racialistas."
+        "legenda": "Oliveira Vianna – Jurista e sociólogo, defensor da imigração europeia seletiva com base em ideias eugênicas e racialistas."
       },
       {
         "arquivo": "renato.jpeg",
-        "legenda": "roque.jpeg|Edgar Roquette-Pinto – Médico e antropólogo, articulador da eugenia na educação e saúde pública, defensor do \"melhoramento da raça\"."
+        "legenda": "Renato Kehl – Médico e principal difusor da eugenia no Brasil, fundador da Sociedade Eugênica de São Paulo e editor do Boletim de Eugenia."
       },
       {
         "arquivo": "roque.jpeg",
-        "legenda": "arthur.jpg|Arthur Neiva – Médico e cientista, atuante nos debates sobre saúde pública e eugenia, ligado à Sociedade Eugênica de São Paulo."
+        "legenda": "Edgar Roquette-Pinto – Médico e antropólogo, articulador da eugenia na educação e saúde pública, defensor do \"melhoramento da raça\"."
       }
     ]
   },
@@ -50,19 +50,19 @@
     "galeria": [
       {
         "arquivo": "boletim_eugenia.png",
-        "legenda": "boletim_eugenia.png|Capa de edição do Boletim de Eugenia, periódico da Sociedade Eugênica de São Paulo (década de 1930), que divulgava artigos sobre higiene racial, esterilização e controle populacional."
+        "legenda": "Capa de edição do Boletim de Eugenia, periódico da Sociedade Eugênica de São Paulo (década de 1930), que divulgava artigos sobre higiene racial, esterilização e controle populacional."
       },
       {
         "arquivo": "exposicao.jpg.webp",
-        "legenda": "exposicao.jpg.webp|Cartaz da Exposição Colonial de Paris (1931), evento internacional que usou imagens exotificadas e racistas para justificar o colonialismo e exibir a \"superioridade\" europeia."
+        "legenda": "Cartaz da Exposição Colonial de Paris (1931), evento internacional que usou imagens exotificadas e racistas para justificar o colonialismo e exibir a \"superioridade\" europeia."
       },
       {
         "arquivo": "kkk.jpg",
-        "legenda": "monteiro.webp|Montagem com capas de livros de Monteiro Lobato, cujas obras infantis, embora clássicas, contêm estereótipos raciais que contribuíram para a naturalização de ideias eugênicas no imaginário popular brasileiro."
+        "legenda": "Reunião da Ku Klux Klan"
       },
       {
         "arquivo": "monteiro.webp",
-        "legenda": "kkk.jpg| Reunião da Ku Klux Klan"
+        "legenda": "Montagem com capas de livros de Monteiro Lobato, cujas obras infantis, embora clássicas, contêm estereótipos raciais que contribuíram para a naturalização de ideias eugênicas no imaginário popular brasileiro."
       }
     ]
   }

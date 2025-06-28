@@ -5,11 +5,11 @@
     "galeria": [
       {
         "arquivo": "Plano-de-aula-Era-Vargas-topo.jpg",
-        "legenda": "capa.jpg|Imagem de Adolf Hitler saudando tropas nazistas em marcha; símbolo da ascensão do regime totalitário na Alemanha e da consolidação de políticas eugênicas baseadas na ideia de pureza racial."
+        "legenda": "Fotografia de Getúlio Vargas em cerimônia oficial durante o Estado Novo; período em que o Estado brasileiro adotou políticas autoritárias e de controle populacional inspiradas por ideais nacionalistas e eugênicos."
       },
       {
         "arquivo": "capa.jpg",
-        "legenda": "Plano-de-aula-Era-Vargas-topo.jpg|Fotografia de Getúlio Vargas em cerimônia oficial durante o Estado Novo; período em que o Estado brasileiro adotou políticas autoritárias e de controle populacional inspiradas por ideais nacionalistas e eugênicos."
+        "legenda": "Imagem de Adolf Hitler saudando tropas nazistas em marcha; símbolo da ascensão do regime totalitário na Alemanha e da consolidação de políticas eugênicas baseadas na ideia de pureza racial."
       }
     ]
   },
@@ -19,7 +19,7 @@
     "galeria": [
       {
         "arquivo": "human_sterilization_today.jpg",
-        "legenda": "human_sterilization_today.jpg|Publicação da Human Betterment Foundation (Califórnia, EUA), defendendo a esterilização forçada de pessoas consideradas “insanas” ou “débeis mentais”; exemplar do pensamento eugênico institucionalizado nos Estados Unidos no início do século XX."
+        "legenda": "Publicação da Human Betterment Foundation (Califórnia, EUA), defendendo a esterilização forçada de pessoas consideradas “insanas” ou “débeis mentais”; exemplar do pensamento eugênico institucionalizado nos Estados Unidos no início do século XX."
       }
     ]
   },
@@ -29,11 +29,11 @@
     "galeria": [
       {
         "arquivo": "doutores.jpg",
-        "legenda": "doutores.jpg|Audiência dos Julgamentos de Nuremberg (1946), onde médicos nazistas foram responsabilizados por experimentos humanos e políticas de eugenia durante o regime nazista."
+        "legenda": "Audiência dos Julgamentos de Nuremberg (1946), onde médicos nazistas foram responsabilizados por experimentos humanos e políticas de eugenia durante o regime nazista."
       },
       {
         "arquivo": "rk.jpg",
-        "legenda": "rk.jpg|Retrato de Renato Kehl, médico brasileiro e principal difusor da eugenia no país; fundou a Sociedade Eugênica de São Paulo e defendeu abertamente políticas de esterilização e seleção racial."
+        "legenda": "Retrato de Renato Kehl, médico brasileiro e principal difusor da eugenia no país; fundou a Sociedade Eugênica de São Paulo e defendeu abertamente políticas de esterilização e seleção racial."
       }
     ]
   },
@@ -43,23 +43,23 @@
     "galeria": [
       {
         "arquivo": "a_ofensiva_japonesa.jpg",
-        "legenda": "a_ofensiva_japonesa.jpg|Capa do panfleto “A ofensiva japonesa no Brasil”, que disseminava medo da imigração nipônica como ameaça ao país, refletindo o racismo institucional contra asiáticos nas décadas de 1930 e 1940."
+        "legenda": "Capa do panfleto “A ofensiva japonesa no Brasil”, que disseminava medo da imigração nipônica como ameaça ao país, refletindo o racismo institucional contra asiáticos nas décadas de 1930 e 1940."
       },
       {
         "arquivo": "anti-semitismo.jpg",
-        "legenda": "anti-semitismo.jpg|Caricatura antissemita amplamente difundida na Europa nas décadas de 1930 e 1940, representando judeus com traços estigmatizados e associando-os a uma suposta dominação global."
+        "legenda": "Caricatura antissemita amplamente difundida na Europa nas décadas de 1930 e 1940, representando judeus com traços estigmatizados e associando-os a uma suposta dominação global."
       },
       {
         "arquivo": "careta.jpg",
-        "legenda": "careta.jpg|Capa da revista “Careta”, periódico ilustrado brasileiro que veiculava charges com forte teor racista, xenófobo e anticomunista, comuns na imprensa nacional do início do século XX."
+        "legenda": "Capa da revista “Careta”, periódico ilustrado brasileiro que veiculava charges com forte teor racista, xenófobo e anticomunista, comuns na imprensa nacional do início do século XX."
       },
       {
         "arquivo": "o_perigo.jpg",
-        "legenda": "o_perigo.jpg|Ilustração de Reinaldo de Carvalho representando o mito da conspiração judaico-comunista, reforçando estereótipos antissemitas e o medo do bolchevismo durante o período entreguerras."
+        "legenda": "Ilustração de Reinaldo de Carvalho representando o mito da conspiração judaico-comunista, reforçando estereótipos antissemitas e o medo do bolchevismo durante o período entreguerras."
       },
       {
         "arquivo": "protocolos_sabios.jpg",
-        "legenda": "protocolos_sabios.jpg|Capa da edição brasileira de “Os Protocolos dos Sábios de Sião”, obra antissemita forjada que influenciou regimes autoritários ao redor do mundo com teorias conspiratórias antijudaicas."
+        "legenda": "Capa da edição brasileira de “Os Protocolos dos Sábios de Sião”, obra antissemita forjada que influenciou regimes autoritários ao redor do mundo com teorias conspiratórias antijudaicas."
       }
     ]
   }
