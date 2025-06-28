@@ -41,7 +41,7 @@ async function fetchConteudos(periodo) {
   let html = "";
 
   for (const topico of topicos) {
-    const pathBase = `../dados/${periodo}/${topico}`;
+    const pathBase = `dados/${periodo}/${topico}`;
     let sectionHTML = `<section><h3>${nomesTopicos[topico]}</h3>`;
 
     try {
@@ -80,7 +80,7 @@ async function fetchConteudos(periodo) {
 
   // Carregar o arquivo de referências gerais do período
   try {
-    const refResp = await fetch(`../dados/${periodo}/referencias/referencias.md`);
+    const refResp = await fetch(`dados/${periodo}/referencias/referencias.md`);
     if (refResp.ok) {
       const refs = (await refResp.text()).trim();
       if (refs) {
