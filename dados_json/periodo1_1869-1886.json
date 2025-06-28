@@ -1,0 +1,70 @@
+{
+  "contexto_politico": {
+    "texto": "Entre 1869 e 1886, o mundo ocidental experimentava grandes transformações políticas e sociais, nas quais ideias racialistas encontraram terreno fértil para florescer. No Brasil, a monarquia de Dom Pedro II mantinha o regime escravocrata, embora pressionada pelo crescente movimento abolicionista. A aprovação da Lei do Ventre Livre em 1871 libertou os filhos de mulheres escravizadas nascidos a partir daquela data, mas os manteve sob tutela do Estado ou dos senhores até a maioridade. Essa legislação reflete uma visão utilitária e racista do Estado, preocupado mais com o controle populacional e com o “futuro da raça brasileira” do que com a liberdade plena. As elites políticas e intelectuais já discutiam a substituição da mão de obra negra pela europeia como forma de \"melhorar\" a composição racial do país. Como afirmou o deputado Rui Barbosa em 1879: *\"O elemento africano que entre nós foi uma transação econômica tornou-se uma calamidade política.\"*\n\nNa Europa, especialmente no Reino Unido e Alemanha, ideologias nacionalistas e imperialistas justificavam a expansão colonial com base em supostas hierarquias raciais. A recém-unificada Alemanha de Bismarck adotava uma política estatal fortemente voltada à consolidação de identidade nacional e “pureza étnica”. O colonialismo europeu era representado como uma “missão civilizadora”, reforçada por imagens de povos colonizados como primitivos ou degenerados.\n\nNos Estados Unidos, a Guerra Civil havia terminado em 1865, mas o racismo institucional se consolidava com as chamadas *Jim Crow Laws*. A Suprema Corte, no caso *Pace v. Alabama* (1883), manteve a constitucionalidade de leis que puniam com mais rigor os relacionamentos inter-raciais. O ambiente político pós-reconstrução foi marcado por esforços sistemáticos para marginalizar a população negra libertada.",
+    "links": "",
+    "galeria": [
+      {
+        "arquivo": "charge.png",
+        "legenda": "gabinete.jpg|Allegoria da Lei do Ventre Livre (1871), exaltando ministros do Império e retratando a abolição parcial como ato civilizador, com destaque à figura da Liberdade abençoando mãe e filho negros."
+      },
+      {
+        "arquivo": "gabinete.jpg",
+        "legenda": "charge.png|Charge “The White Man’s Burden” (1899), que satiriza o imperialismo europeu e americano, retratando povos colonizados como fardos carregados rumo à “civilização” por figuras ocidentais — expressão visual do racismo e da missão civilizatória eugenista."
+      }
+    ]
+  },
+  "contexto_normativo": {
+    "texto": "Embora o termo \"eugenia\" só tenha sido cunhado em 1883, leis com inspiração racialista e higienista já estavam em vigor neste período. No Brasil, a Lei do Ventre Livre (1871) é exemplar de uma tentativa estatal de controlar o futuro reprodutivo da população negra. O incentivo à imigração europeia, especialmente de italianos e alemães, foi justificado pela necessidade de “melhorar a raça” brasileira – uma ideia presente em discursos parlamentares e na imprensa da época. Em 1872, por exemplo, o *Jornal do Commercio* publicou um editorial em que se lia: *\"O sangue europeu nos regenerará. A África em nós é peso morto.\"*\n\nNos Estados Unidos, a aprovação do **Chinese Exclusion Act** em 1882 marcou a primeira grande política federal de imigração racialmente motivada. A lei proibia a entrada de trabalhadores chineses, sob o argumento de que representavam uma ameaça à ordem social, à economia e à “pureza racial”. Na Europa, embora ainda não houvesse leis explicitamente eugenistas, normas como as **Poor Laws** britânicas (em vigor desde o século XIX) já implicavam uma distinção moral e biológica entre os \"aptos\" e os \"degenerados\", dificultando a reprodução e sobrevivência de pobres e doentes.",
+    "links": "",
+    "galeria": [
+      {
+        "arquivo": "capa.jpg",
+        "legenda": "capa.jpg|Capa decorada da publicação oficial da Lei do Ventre Livre (1871), usada para simbolizar o marco legal da abolição parcial e a atuação do Estado imperial."
+      },
+      {
+        "arquivo": "manuscrito_lei.jpg",
+        "legenda": "trecho_lei.jpg|Trecho da Lei nº 2.040 de 28 de setembro de 1871, declarando livres os filhos de mulheres escravizadas nascidos a partir daquela data — embora sob tutela compulsória."
+      },
+      {
+        "arquivo": "trecho_lei.jpg",
+        "legenda": "manuscrito_lei.jpg|Manuscrito original da Lei do Ventre Livre com assinatura de Dom Pedro II, revelando a ambiguidade da norma: liberdade legal combinada com trabalho forçado até a vida adulta."
+      }
+    ]
+  },
+  "protagonistas": {
+    "texto": "A consolidação do pensamento eugenista começa a tomar forma com a atuação de alguns intelectuais e cientistas. O britânico **Francis Galton**, primo de Charles Darwin, publicou em 1869 o livro *Hereditary Genius*, onde afirmava: *\"É possível produzir uma raça superior pela seleção dos mais aptos.\"* Em 1883, criou o termo \"eugenia\" para descrever a ciência do “aperfeiçoamento da espécie humana”. Suas ideias combinavam estatística, racismo e um ideal moralista de progresso.\n\nNos Estados Unidos, o filósofo **Herbert Spencer** popularizou o darwinismo social, defendendo que a sobrevivência dos mais aptos justificava a desigualdade social e racial. No Brasil, **Sílvio Romero**, importante crítico literário e ensaísta, expressava preocupações com a degeneração racial e os efeitos da miscigenação, que ele via como um obstáculo ao progresso nacional. Em artigo de 1881, afirmava: *“A mestiçagem não é o caminho da civilização, mas sua negação biológica.”*",
+    "links": "",
+    "galeria": [
+      {
+        "arquivo": "800px-Silvio_Romero.jpg",
+        "legenda": "darwin_1.jpg|Retrato de Charles Darwin (1809–1882), naturalista britânico cuja teoria da seleção natural foi posteriormente distorcida por pensadores eugenistas para justificar hierarquias sociais e raciais."
+      },
+      {
+        "arquivo": "Sir_Francis_Galton,_1890s.jpg",
+        "legenda": "herbert.jpg|Retrato de Herbert Spencer (1820–1903), filósofo britânico que popularizou o conceito de “sobrevivência dos mais aptos”, base para o darwinismo social e influente nas formulações eugenistas do século XIX."
+      },
+      {
+        "arquivo": "darwin_1.jpg",
+        "legenda": "Sir_Francis_Galton,_1890s.jpg|Retrato de Francis Galton (1822–1911), criador do termo “eugenia” e defensor da intervenção estatal para aprimorar geneticamente a população humana."
+      },
+      {
+        "arquivo": "herbert.jpg",
+        "legenda": "800px-Silvio_Romero.jpg|Retrato de Sílvio Romero (1851–1914), crítico, ensaísta e político brasileiro. Foi um dos principais pensadores do século XIX a difundir no Brasil ideias raciais e evolucionistas, associando miscigenação à degeneração e defendendo o branqueamento como caminho para o progresso nacional."
+      }
+    ]
+  },
+  "modos_de_apresentacao": {
+    "texto": "As ideias eugenistas e racialistas não circularam apenas nas universidades ou entre elites científicas; elas foram amplamente difundidas por meios de comunicação, exposições públicas e representações visuais. Publicações de prestígio como a revista Nature, no Reino Unido, e jornais populares como o The New York Times, nos Estados Unidos, veiculavam artigos e reportagens que reforçavam noções de inferioridade racial, criminalidade hereditária e degeneração moral associada a determinados grupos étnicos. Em universidades britânicas e estadunidenses, cursos de antropologia física e criminologia apresentavam teorias baseadas em mensuração craniana e tipologias raciais, como as de **Cesare Lombroso**, cujos estudos sobre criminalidade inata influenciaram juristas em todo o mundo.\n\nNa imprensa, jornais como *The New York Times* veiculavam matérias sobre “degeneração racial”, reforçando o medo de que imigrantes do sul e leste europeu “corrompessem” os valores americanos.\n\nTambém eram comuns, sobretudo na Europa, exposições coloniais e etnográficas onde povos não europeus eram exibidos como atrações exóticas – os chamados “zoológicos humanos”. Em Paris, a Exposição Universal de 1878 incluiu a encenação de aldeias africanas, reforçando estereótipos de inferioridade.",
+    "links": "",
+    "galeria": [
+      {
+        "arquivo": "charge.png",
+        "legenda": "charge.png|Charge “The White Man’s Burden” (1899), que satiriza o imperialismo europeu e americano, retratando povos colonizados como fardos carregados rumo à “civilização” por figuras ocidentais — expressão visual do racismo e da missão civilizatória eugenista."
+      },
+      {
+        "arquivo": "hereditarygeniuscover.jpg",
+        "legenda": "hereditarygeniuscover.jpg|Edição original de Hereditary Genius (1869), obra de Francis Galton que marcou o início formal da eugenia como “ciência” da hereditariedade e do aprimoramento humano."
+      }
+    ]
+  }
+}

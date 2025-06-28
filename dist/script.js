@@ -30,76 +30,77 @@ function fecharModal() {
 }
 
 async function fetchConteudos(periodo) {
-  const topicos = ["contexto_politico", "contexto_normativo", "protagonistas", "modos_de_apresentacao"];
-  const nomesTopicos = {
-    contexto_politico: "Contexto Político",
-    contexto_normativo: "Contexto Normativo",
-    protagonistas: "Protagonistas",
-    modos_de_apresentacao: "Modos de Apresentação"
-  };
+  try {
+    const resposta = await fetch(`dados_json/${periodo}.json`);
+    if (!resposta.ok) {
+      throw new Error("Erro ao buscar JSON.");
+    }
 
-  let html = "";
+    const dados = await resposta.json();
+    const topicos = ["contexto_politico", "contexto_normativo", "protagonistas", "modos_de_apresentacao"];
+    const nomesTopicos = {
+      contexto_politico: "Contexto Político",
+      contexto_normativo: "Contexto Normativo",
+      protagonistas: "Protagonistas",
+      modos_de_apresentacao: "Modos de Apresentação"
+    };
 
-  for (const topico of topicos) {
-    const pathBase = `dados/${periodo}/${topico}`;
-    let sectionHTML = `<section><h3>${nomesTopicos[topico]}</h3>`;
+    let html = "";
 
-    try {
-      const textoResp = await fetch(`${pathBase}/texto.md`);
-      if (textoResp.ok) {
-        const texto = (await textoResp.text()).trim();
-        sectionHTML += `<div class="markdown-text">${marked.parse(texto)}</div>`;
+    for (const topico of topicos) {
+      const conteudo = dados[topico];
+      let sectionHTML = `<section><h3>${nomesTopicos[topico]}</h3>`;
+
+      if (conteudo.texto) {
+        sectionHTML += `<div class="markdown-text">${marked.parse(conteudo.texto)}</div>`;
       }
 
-      const linksResp = await fetch(`${pathBase}/links.md`);
-      if (linksResp.ok) {
-        const links = (await linksResp.text()).trim();
-        if (links) {
-          sectionHTML += `<div class="markdown-text">${marked.parse("**Links:**\n\n" + links)}</div>`;
-        }
+      if (conteudo.links) {
+        sectionHTML += `<div class="markdown-text">${marked.parse("**Links:**\n\n" + conteudo.links)}</div>`;
       }
 
-      const imagens = await listarImagens(pathBase);
-      if (imagens.length) {
+      if (conteudo.galeria?.length) {
         sectionHTML += `<div class="galeria">` +
-          imagens.map(img => `
+          conteudo.galeria.map(img => `
             <figure class="galeria-item">
-              <img src="${img.src}" class="thumb" loading="lazy" data-legenda="${img.legenda.replace(/"/g, '&quot;')}">
+              <img src="dados/${periodo}/${topico}/galeria/${img.arquivo}" class="thumb" loading="lazy" data-legenda="${img.legenda.replace(/"/g, '&quot;')}">
             </figure>
           `).join("") +
           `</div>`;
       }
 
-    } catch (err) {
-      sectionHTML += `<p><em>Erro ao carregar conteúdo.</em></p>`;
+      sectionHTML += "</section>";
+      html += sectionHTML;
     }
 
-    sectionHTML += "</section>";
-    html += sectionHTML;
-  }
-
-  // Carregar o arquivo de referências gerais do período
-  try {
-    const refResp = await fetch(`dados/${periodo}/referencias/referencias.md`);
-    if (refResp.ok) {
-      const refs = (await refResp.text()).trim();
-      if (refs) {
-        html += `
-          <section>
-            <h3>Referências</h3>
-            <div class="markdown-text">${marked.parse(refs)}</div>
-          </section>
-        `;
+    // Referências
+    try {
+      const refResp = await fetch(`dados/${periodo}/referencias/referencias.md`);
+      if (refResp.ok) {
+        const refs = (await refResp.text()).trim();
+        if (refs) {
+          html += `
+            <section>
+              <h3>Referências</h3>
+              <div class="markdown-text">${marked.parse(refs)}</div>
+            </section>
+          `;
+        }
       }
+    } catch (err) {
+      html += `<section><h3>Referências</h3><p><em>Erro ao carregar referências.</em></p></section>`;
     }
-  } catch (err) {
-    html += `<section><h3>Referências</h3><p><em>Erro ao carregar referências.</em></p></section>`;
-  }
 
-  const ano = periodo.split("_")[1].replace("-", "–");
-  document.getElementById("modal-titulo").innerText = `Período: ${ano}`;
-  document.getElementById("modal-conteudo").innerHTML = html;
+    const ano = periodo.split("_")[1].replace("-", "–");
+    document.getElementById("modal-titulo").innerText = `Período: ${ano}`;
+    document.getElementById("modal-conteudo").innerHTML = html;
+
+  } catch (erro) {
+    console.error("Erro ao carregar JSON:", erro);
+    document.getElementById("modal-conteudo").innerHTML = `<p><em>Erro ao carregar os dados.</em></p>`;
+  }
 }
+
 
 
 async function listarImagens(pathBase) {

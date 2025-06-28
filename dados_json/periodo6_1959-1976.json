@@ -1,0 +1,32 @@
+{
+  "contexto_politico": {
+    "texto": "No cenário internacional, o mundo vivia as tensões da Guerra Fria. Após os horrores da Segunda Guerra Mundial, as políticas eugenistas explícitas perderam legitimidade moral e política. Ainda assim, ideias de melhoramento populacional continuaram presentes, agora sob novas roupagens — como o avanço da genética, da biologia molecular e das discussões sobre bioética. O surgimento de tratados internacionais sobre direitos humanos passou a confrontar práticas herdadas da eugenia, mesmo quando disfarçadas de ciência moderna.\n\nNo Brasil, o regime militar, instaurado em 1964, promoveu um modelo tecnocrático de governo. Apesar da retórica oficial evitar referências à eugenia, medidas de planejamento familiar e políticas de saúde pública foram orientadas por lógicas de controle populacional e higienização social, revelando a permanência sutil de ideias eugenistas.",
+    "links": "",
+    "galeria": [
+      {
+        "arquivo": "guerra_fria.jpg",
+        "legenda": "guerra_fria.jpg|Charge representando a Guerra Fria, com o Tio Sam (EUA) e o urso soviético (URSS) disputando influência geopolítica sobre o mapa-múndi; simboliza a rivalidade ideológica, política e militar entre capitalismo e socialismo durante o século XX."
+      }
+    ]
+  },
+  "contexto_normativo": {
+    "texto": "A crítica global à eugenia após a Segunda Guerra influenciou a formulação de normas internacionais voltadas à proteção dos direitos humanos. Muitas legislações passaram a rejeitar práticas como a esterilização compulsória e outras formas de intervenção coercitiva. No entanto, novos discursos sobre saúde pública e genética passaram a ocupar esse espaço, com foco na prevenção de doenças hereditárias.\n\nNo Brasil, ainda que não se tenha aprovado legislação explícita com teor eugenista, políticas públicas de vacinação, controle de doenças genéticas e planejamento familiar continuaram a operar sob justificativas técnicas. Essas medidas, embora aparentemente neutras, carregavam resquícios de racionalidades excludentes herdadas da lógica eugenista.",
+    "links": "",
+    "galeria": [
+      {
+        "arquivo": "onu.png",
+        "legenda": "onu.png|Eleanor Roosevelt segurando a Declaração Universal dos Direitos Humanos, adotada pela ONU em 1948; documento histórico que marcou a resposta internacional às atrocidades da Segunda Guerra Mundial e aos abusos cometidos por regimes totalitários."
+      }
+    ]
+  },
+  "protagonistas": {
+    "texto": "Diferente das décadas anteriores, os principais defensores das ideias de melhoramento populacional já não eram os eugenistas clássicos. Passaram a ser cientistas, médicos, geneticistas e gestores públicos, que abordavam o tema de forma mais técnica, geralmente ancorados no discurso da ciência e da saúde coletiva.\n\nNo Brasil, especialistas em saúde pública defenderam programas de controle genético e prevenção de doenças hereditárias, muitas vezes sem reconhecer os impactos excludentes de tais práticas. Universidades e centros de pesquisa foram palco de intensos debates sobre os limites éticos do uso do conhecimento genético, refletindo uma tentativa de ressignificar a eugenia sob parâmetros científicos e humanitários.",
+    "links": "",
+    "galeria": []
+  },
+  "modos_de_apresentacao": {
+    "texto": "Durante esse período, as ideias associadas à eugenia foram reformuladas em linguagem técnica e científica, dissociadas da terminologia original. As publicações científicas passaram a enfatizar avanços em genética e biotecnologia, omitindo conexões com práticas discriminatórias. A mídia, por sua vez, popularizou o discurso da medicina preventiva e da “qualidade de vida”, fortalecendo o imaginário de eficiência populacional.\n\nNo Brasil e no mundo, os discursos oficiais adotaram uma retórica de progresso científico e modernização dos serviços públicos. Assim, a eugenia encontrou novos canais de legitimação, agora filtrados por critérios de racionalidade técnica e planejamento estatal.",
+    "links": "",
+    "galeria": []
+  }
+}

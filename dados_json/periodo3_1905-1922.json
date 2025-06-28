@@ -1,0 +1,45 @@
+{
+  "contexto_politico": {
+    "texto": "No Brasil, entre 1905 e 1922, consolida-se um projeto republicano que tenta, por meio da ordem, do progresso e da racionalização da vida pública, construir uma nação moderna nos moldes europeus. Essa reorganização do Estado republicano, especialmente após o fortalecimento das oligarquias regionais e da centralização do poder nas mãos das elites agrárias e urbanas, estava profundamente comprometida com a ideia de que o país precisava se \"corrigir biologicamente\". A crença na degeneração da população miscigenada era amplamente difundida nas elites intelectuais e políticas. A política imigratória, instituída pela Lei de Imigração de 1907, passou a selecionar de forma velada os grupos étnicos desejados — privilegiando imigrantes europeus e dificultando o ingresso de asiáticos e africanos, numa clara tentativa de controle racial do território.\n\nEssa racionalização da sociedade também se manifestava nos grandes projetos de higienização urbana, como os promovidos no Rio de Janeiro por Pereira Passos e Oswaldo Cruz, com a justificativa de combater epidemias e modernizar os espaços urbanos. Na prática, essas reformas expulsaram populações negras e pobres dos centros das cidades, aprofundando desigualdades sociais sob o manto da saúde pública. Em 1918, é fundada a Sociedade Eugênica de São Paulo, marco explícito da institucionalização do pensamento eugenista no país. Seus membros defendiam a melhoria do “tipo humano nacional” por meio da seleção de casamentos, da educação higiênica e, em alguns casos, de medidas mais radicais como esterilização e isolamento de indivíduos considerados “degenerados”.\n\nEnquanto isso, no cenário internacional, o mundo enfrentava os impactos da Primeira Guerra Mundial (1914–1918), conflito que redefiniu fronteiras, regimes políticos e identidades nacionais. A guerra foi também um laboratório de aplicação de ideias eugenistas, com o uso de triagens médicas, controle de soldados “aptos” e discursos nacionalistas racializados. O surgimento do nazismo com a fundação do Partido Nacional-Socialista dos Trabalhadores Alemães (NSDAP) em 1919, e a ascensão do fascismo italiano em 1922, reforçam o uso político da eugenia como ferramenta de unificação, pureza racial e extermínio do “diferente”. Essas ideias, embora ainda embrionárias nesses regimes, influenciaram diretamente intelectuais e políticos brasileiros, que viam na Europa um espelho de modernidade racial e social a ser imitado.",
+    "links": "",
+    "galeria": [
+      {
+        "arquivo": "migracao_italiana.jpg",
+        "legenda": "propaganda_nazista.jpg|Cartaz de propaganda do Partido Nazista (NSDAP) convocando eleitores com o lema “Liberdade e Pão”, reforçando discursos de pureza racial e nacionalismo racializado."
+      },
+      {
+        "arquivo": "navios-de-imigrantes-italianos.webp",
+        "legenda": "migracao_italiana.jpg|Cartaz da companhia La Veloce promovendo a imigração italiana para o Brasil, alinhada às políticas de branqueamento populacional nas primeiras décadas da República."
+      },
+      {
+        "arquivo": "propaganda_nazista.jpg",
+        "legenda": "navios-de-imigrantes-italianos.webp|Fotografia de navio trazendo imigrantes europeus ao Brasil, representando a política seletiva de imigração da época, que favorecia brancos europeus como parte do projeto eugenista."
+      }
+    ]
+  },
+  "contexto_normativo": {
+    "texto": "No Brasil, embora não houvesse leis de eugenia explícitas como as de esterilização, diversas políticas públicas incorporaram valores eugenistas. A já mencionada Lei de Imigração de 1907, com suas restrições seletivas, funcionava como uma política de engenharia populacional. Ao mesmo tempo, os discursos médicos e jurídicos da época começavam a defender a segregação de “anormais”, o controle da reprodução de “degenerados” e o isolamento de portadores de doenças como sífilis, alcoolismo e epilepsia. A ideia de que certos corpos eram “danosos ao tecido social” preparava o terreno para uma normatização da exclusão com base biológica.\n\nNos Estados Unidos, as ideias eugenistas já haviam se traduzido em legislações concretas. Em 1907, o estado de Indiana aprovou a primeira lei de esterilização compulsória, voltada a pessoas com deficiências mentais, físicas e consideradas “criminosas habituais”. Até 1922, mais de 15 estados norte-americanos já haviam adotado normas semelhantes, institucionalizando o controle da reprodução como política de Estado. Essas leis inspirariam outros países nas décadas seguintes e eram vistas com interesse por alguns setores da medicina e do direito no Brasil.",
+    "links": "",
+    "galeria": []
+  },
+  "protagonistas": {
+    "texto": "No Brasil, **Renato Ferraz Kehl** se destacou como o maior difusor das ideias eugenistas nas primeiras décadas do século XX. Nascido em **Limeira, interior de São Paulo, em 1889**, Kehl foi médico, farmacêutico e escritor. Teve papel central na fundação da **Sociedade Eugênica de São Paulo**, da qual foi secretário-geral, e utilizou seus livros, artigos e atividades públicas para disseminar o ideal de um Brasil mais “puro”, disciplinado e saudável. Dentre suas obras, destacam-se *Eugenia e medicina social*, *Aparas eugênicas*, *O médico do lar* e *A cura da fealdade*, em que articulava noções médicas, morais e raciais em defesa do melhoramento humano.\n\nAlém de Kehl, outros médicos, juristas, pedagogos e engenheiros sanitários se alinharam ao movimento eugenista, ainda que nem todos o fizessem sob essa nomenclatura. As ideias se disseminavam como um **senso comum das elites**, e muitas vezes se infiltravam em práticas cotidianas — desde escolas até programas de saúde pública. A aproximação entre ciência, moral e poder de Estado era vista como necessária para transformar o Brasil em uma nação “eficiente”, conforme os padrões das nações europeias.",
+    "links": "",
+    "galeria": [
+      {
+        "arquivo": "renato_kehl.jpg",
+        "legenda": "renato_kehl.jpg| Renato Kehl"
+      }
+    ]
+  },
+  "modos_de_apresentacao": {
+    "texto": "Durante esse período, a eugenia no Brasil se difundia por meio de **livros, manuais escolares, periódicos científicos e campanhas sanitárias**. Obras estrangeiras, como as de **Francis Galton** ou **Madison Grant**, eram traduzidas e adaptadas ao contexto brasileiro. O discurso médico se impunha como autoridade sobre o corpo social, e as campanhas de vacinação e higiene, embora importantes do ponto de vista da saúde pública, vinham acompanhadas de um **olhar seletivo e moralizante sobre os corpos pobres, negros e considerados “atrasados”**.\n\nEventos como **feiras, congressos científicos e exposições nacionais** serviam de palco para a apresentação de ideias sobre “melhoria racial”, frequentemente associadas a gráficos, estatísticas, fotografias comparativas e medidas cranianas. A imprensa reproduzia com entusiasmo essas iniciativas, legitimando a ideia de que o progresso da nação passava pela **seleção racional de seus habitantes**. Aos poucos, a eugenia se tornava não apenas um campo do saber, mas uma **sensibilidade social**, que atravessava discursos médicos, educacionais, jurídicos e urbanísticos.",
+    "links": "",
+    "galeria": [
+      {
+        "arquivo": "oswaldo_cruz.jpg",
+        "legenda": "oswaldo_cruz.jpg|Médico sanitarista responsável pelas reformas de higienização urbana no Rio de Janeiro, que embora importantes para a saúde pública, resultaram na expulsão de populações pobres e negras do centro."
+      }
+    ]
+  }
+}

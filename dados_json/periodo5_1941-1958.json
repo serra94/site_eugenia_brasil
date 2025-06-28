@@ -1,0 +1,66 @@
+{
+  "contexto_politico": {
+    "texto": "A Segunda Guerra Mundial (1939–1945) revelou ao mundo o ápice das práticas eugenistas com o regime nazista. A ideologia de “purificação racial” sustentou programas de esterilização forçada, eutanásia e extermínio sistemático de populações inteiras — como judeus, ciganos e deficientes físicos e mentais. Após a guerra, os julgamentos de Nuremberg evidenciaram o uso da ciência como ferramenta de opressão, levando à rejeição formal da eugenia como doutrina científica.\n\nNo Brasil, esse cenário internacional coincidiu com a consolidação do Estado Novo (1937–1945). O regime de Getúlio Vargas apostava num projeto nacionalista que vinculava saúde pública, disciplina social e produtividade como pilares da modernização. A entrada do Brasil na guerra ao lado dos Aliados reforçou o discurso de progresso e de regeneração moral da população. Mesmo com a redemocratização em 1946, práticas herdadas do higienismo e da eugenia continuaram influenciando políticas públicas e discursos sobre o “cidadão ideal”.\n\nSegundo Costa (2022), “a medicina do trabalho, o saneamento e a educação sanitária passaram a operar como estratégias estatais de moralização e exclusão dos indesejáveis”.",
+    "links": "",
+    "galeria": [
+      {
+        "arquivo": "Plano-de-aula-Era-Vargas-topo.jpg",
+        "legenda": "capa.jpg|Imagem de Adolf Hitler saudando tropas nazistas em marcha; símbolo da ascensão do regime totalitário na Alemanha e da consolidação de políticas eugênicas baseadas na ideia de pureza racial."
+      },
+      {
+        "arquivo": "capa.jpg",
+        "legenda": "Plano-de-aula-Era-Vargas-topo.jpg|Fotografia de Getúlio Vargas em cerimônia oficial durante o Estado Novo; período em que o Estado brasileiro adotou políticas autoritárias e de controle populacional inspiradas por ideais nacionalistas e eugênicos."
+      }
+    ]
+  },
+  "contexto_normativo": {
+    "texto": "Mesmo com a queda do nazismo, muitos países mantiveram legislações que visavam o controle da reprodução e da saúde pública sob um viés normativo e moralizante. A medicina do trabalho ganhou força como ferramenta de exclusão e de manutenção da ordem. No Brasil, essa tendência se manifestou com a promulgação da Consolidação das Leis do Trabalho (CLT) em 1943, que instituiu exames médicos obrigatórios e tornou a saúde um critério de empregabilidade.\n\nCampanhas de combate à sífilis, à tuberculose e à hanseníase impuseram formas de vigilância sanitária com forte carga moral, associando doenças ao comportamento imoral ou à pobreza. A moradia popular, como os conjuntos do IAPC, era também condicionada à conformidade com padrões de higiene e disciplina familiar.\n\nComo destaca Costa (2022), “a normalização da saúde passa a se confundir com a capacidade produtiva do cidadão”.",
+    "links": "",
+    "galeria": [
+      {
+        "arquivo": "human_sterilization_today.jpg",
+        "legenda": "human_sterilization_today.jpg|Publicação da Human Betterment Foundation (Califórnia, EUA), defendendo a esterilização forçada de pessoas consideradas “insanas” ou “débeis mentais”; exemplar do pensamento eugênico institucionalizado nos Estados Unidos no início do século XX."
+      }
+    ]
+  },
+  "protagonistas": {
+    "texto": "Com a deslegitimação internacional da eugenia após a guerra, muitos de seus defensores passaram a utilizar novos vocabulários: saúde pública, higiene mental, medicina do trabalho. No Brasil, figuras como Nelson de Souza Sampaio lideraram políticas de saúde laboral com base na exclusão de corpos considerados improdutivos ou desviantes.\n\nCom o fim da Segunda Guerra Mundial e a exposição internacional dos horrores nazistas, a eugenia como discurso científico entrou em descrédito. No entanto, seus fundamentos se diluíram em outras formas de atuação técnica, como a medicina do trabalho, a higiene pública e o discurso da produtividade.\n\nNo Brasil, a atuação dos médicos passou a se concentrar na definição de critérios de saúde vinculados à capacidade produtiva. A medicina do trabalho consolidou-se como campo estratégico de exclusão de indivíduos considerados incapazes para o desempenho eficiente das funções laborais. Como afirma Costa (2022), “o saber médico passa a produzir classificações funcionais entre os corpos: os aptos ao trabalho e os descartáveis”.\n\nEmbora nomes como **Renato Kehl** — expoente do movimento eugênico nas décadas anteriores — tenham perdido espaço institucional, o artigo mostra como **as ideias eugenistas foram transpostas para práticas de controle moral e disciplinar**, sobretudo por meio da vigilância médica, da normatização da saúde e da vinculação entre corpo sadio e valor cidadão.\n\nA atuação médica e estatal, portanto, não apenas reproduziu desigualdades, como também as legitimou sob o discurso técnico da eficiência e da ciência.\n\nRenato Kehl, um dos fundadores da Sociedade Eugênica de São Paulo, manteve presença editorial e intelectual mesmo com o fim da guerra, influenciando práticas manicomiais e discursos sobre hereditariedade. A psiquiatria e a pedagogia sanitária também assumiram funções de classificação e controle social.\n\nCosta (2022) aponta que “o saber médico passa a produzir classificações funcionais entre os corpos: os aptos ao trabalho e os descartáveis”.",
+    "links": "",
+    "galeria": [
+      {
+        "arquivo": "doutores.jpg",
+        "legenda": "doutores.jpg|Audiência dos Julgamentos de Nuremberg (1946), onde médicos nazistas foram responsabilizados por experimentos humanos e políticas de eugenia durante o regime nazista."
+      },
+      {
+        "arquivo": "rk.jpg",
+        "legenda": "rk.jpg|Retrato de Renato Kehl, médico brasileiro e principal difusor da eugenia no país; fundou a Sociedade Eugênica de São Paulo e defendeu abertamente políticas de esterilização e seleção racial."
+      }
+    ]
+  },
+  "modos_de_apresentacao": {
+    "texto": "A rejeição da eugenia como ideologia não significou o abandono de suas formas de representação. Pelo contrário, elas se tornaram mais sutis e amplamente disseminadas por meio de campanhas educativas, filmes, revistas infantis e exposições públicas.\n\nO Instituto Oswaldo Cruz e o Ministério da Saúde produziram filmes como *O Drama das Endemias*, nos quais a saúde era retratada como resultado da disciplina, da higiene pessoal e do comportamento correto. O ideal de cidadão sadio era branco, magro, heterossexual e obediente.\n\nA imprensa reforçou essas normas visuais e morais, como mostra Costa (2022): “A pedagogia sanitária e os filmes educativos reforçavam padrões normativos de conduta e punham em segundo plano as condições estruturais da pobreza.”",
+    "links": "",
+    "galeria": [
+      {
+        "arquivo": "a_ofensiva_japonesa.jpg",
+        "legenda": "a_ofensiva_japonesa.jpg|Capa do panfleto “A ofensiva japonesa no Brasil”, que disseminava medo da imigração nipônica como ameaça ao país, refletindo o racismo institucional contra asiáticos nas décadas de 1930 e 1940."
+      },
+      {
+        "arquivo": "anti-semitismo.jpg",
+        "legenda": "anti-semitismo.jpg|Caricatura antissemita amplamente difundida na Europa nas décadas de 1930 e 1940, representando judeus com traços estigmatizados e associando-os a uma suposta dominação global."
+      },
+      {
+        "arquivo": "careta.jpg",
+        "legenda": "careta.jpg|Capa da revista “Careta”, periódico ilustrado brasileiro que veiculava charges com forte teor racista, xenófobo e anticomunista, comuns na imprensa nacional do início do século XX."
+      },
+      {
+        "arquivo": "o_perigo.jpg",
+        "legenda": "o_perigo.jpg|Ilustração de Reinaldo de Carvalho representando o mito da conspiração judaico-comunista, reforçando estereótipos antissemitas e o medo do bolchevismo durante o período entreguerras."
+      },
+      {
+        "arquivo": "protocolos_sabios.jpg",
+        "legenda": "protocolos_sabios.jpg|Capa da edição brasileira de “Os Protocolos dos Sábios de Sião”, obra antissemita forjada que influenciou regimes autoritários ao redor do mundo com teorias conspiratórias antijudaicas."
+      }
+    ]
+  }
+}
