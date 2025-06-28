@@ -1,0 +1,4 @@
+- [O “modelo eugênico brasileiro”: entre as ciências da vida e a moral nacional (UEPG)](https://revistas.uepg.br/index.php/rhr/article/view/23710)
+- [Renato Ferraz Kehl – Academia Nacional de Medicina](https://www.anm.org.br/renato-ferraz-kehl/)
+- [BBC Brasil – Ota Benga: a triste história do homem que foi exibido em um zoológico](https://www.bbc.com/portuguese/internacional-39625619)
+- [UOL TAB – Pseudociência e racismo: entenda o que é eugenia e seu impacto na sociedade](https://tab.uol.com.br/faq/pseudociencia-e-racismo-entenda-o-que-e-eugenia-e-seu-impacto-na-sociedade.htm)

@@ -1,0 +1,4 @@
+- [“Encampada pelo nazismo, eugenia já foi emblema de ‘modernidade’ no Brasil” – Fiocruz](https://coc.fiocruz.br/todas-as-noticias/encampada-pelo-nazismo-eugenia-ja-foi-emblema-de-modernidade-no-brasil/#:~:text=Em%201920%2C%20eugenia%20era%20um,per%C3%ADodo%2C%20observa%20Anderson%20Ricardo%20Carlos.)
+- [“Imigrantes indesejáveis: a ideologia do etiquetamento durante a Era Vargas” – Revista USP](https://jornal.usp.br/revistausp/revista-usp-119-textos-8-imigrantes-indesejaveis-a-ideologia-do-etiquetamento-durante-a-era-vargas/)
+- [Human Betterment Foundation – Wikipedia](https://en.wikipedia.org/wiki/Human_Betterment_Foundation?utm_source=chatgpt.com)
+- [Reflecting on the Legacies of Eugenics – Wiener Holocaust Library](https://wienerholocaustlibrary.org/2021/07/26/reflecting-on-the-legacies-of-eugenics/?utm_source=chatgpt.com&__cf_chl_tk=wp3X7NOHLOmj4APqLOJE82oV.6AMhnfScd4vML12sYU-1750628400-1.0.1.1-9Eft1wQRRP1tHr8QvhbWeM4I3rXqj8BxbFnBDIk482c)

@@ -1,0 +1,8 @@
+- [Hereditary Genius – Francis Galton (1869)](https://archive.org/details/hereditarygenius00galtrich)
+- [Retrato de Francis Galton – Wellcome Collection](https://wellcomecollection.org/works/ts9uh4xe)
+- [Lei do Ventre Livre – Câmara dos Deputados](http://www2.camara.leg.br/legin/fed/lei/1824-1899/lei-2040-28-setembro-1871-563221-publicacaooriginal-1-pl.html)
+- [Pace v. Alabama (1883) – Supreme Court of the United States](https://supreme.justia.com/cases/federal/us/106/583/)
+- [Chinese Exclusion Act – Library of Congress](https://www.loc.gov/item/2008661705/)
+- [Charge “The White Man’s Burden” – Punch Magazine (1899)](https://commons.wikimedia.org/wiki/File:The_white_man%27s_burden_harriett.jpg)
+- [Capa da Revista Illustrada – Hemeroteca Digital da BN](http://bndigital.bn.gov.br/hemeroteca-digital/)
+- [Foto da Exposição Colonial de 1878 – Musée du Quai Branly](https://www.quaibranly.fr/en/)

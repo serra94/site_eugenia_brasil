@@ -1,0 +1,3 @@
+Durante esse período, as ideias associadas à eugenia foram reformuladas em linguagem técnica e científica, dissociadas da terminologia original. As publicações científicas passaram a enfatizar avanços em genética e biotecnologia, omitindo conexões com práticas discriminatórias. A mídia, por sua vez, popularizou o discurso da medicina preventiva e da “qualidade de vida”, fortalecendo o imaginário de eficiência populacional.
+
+No Brasil e no mundo, os discursos oficiais adotaram uma retórica de progresso científico e modernização dos serviços públicos. Assim, a eugenia encontrou novos canais de legitimação, agora filtrados por critérios de racionalidade técnica e planejamento estatal.

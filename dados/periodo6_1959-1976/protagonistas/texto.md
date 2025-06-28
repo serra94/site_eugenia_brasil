@@ -1,0 +1,3 @@
+Diferente das décadas anteriores, os principais defensores das ideias de melhoramento populacional já não eram os eugenistas clássicos. Passaram a ser cientistas, médicos, geneticistas e gestores públicos, que abordavam o tema de forma mais técnica, geralmente ancorados no discurso da ciência e da saúde coletiva.
+
+No Brasil, especialistas em saúde pública defenderam programas de controle genético e prevenção de doenças hereditárias, muitas vezes sem reconhecer os impactos excludentes de tais práticas. Universidades e centros de pesquisa foram palco de intensos debates sobre os limites éticos do uso do conhecimento genético, refletindo uma tentativa de ressignificar a eugenia sob parâmetros científicos e humanitários.

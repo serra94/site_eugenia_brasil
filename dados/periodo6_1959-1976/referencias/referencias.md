@@ -1,0 +1,6 @@
+- **SCHWARCZ, Lilia Moritz.** [*O espetáculo das raças: cientistas, instituições e questão racial no Brasil, 1870–1930*](https://www.companhiadasletras.com.br/detalhe.php?codigo=10083). São Paulo: Companhia das Letras, 1993.
+- **STEPAN, Nancy Leys.** [*A hora da eugenia: raça, gênero e nação na América Latina*](https://portal.fiocruz.br/livro/hora-da-eugenia-raca-genero-e-nacao-na-america-latina). Rio de Janeiro: Fiocruz, 2005.
+- **MAIO, Marcos Chor.** [*O consenso eugenista: ciência e eugenia no Brasil (1917–1945)*](https://books.scielo.org/id/6npfj). São Paulo: Editora Fiocruz, 2009.
+- **PANDJIARJIAN, Valéria.** [*A eugenia no Brasil: o movimento eugênico em debate (1917–1945)*](https://www.scielo.br/j/rbcsoc/a/J3bYmb6msDbbFfrnGJ9chFQ/?lang=pt). *Revista Brasileira de Ciências Sociais*, São Paulo, v. 19, n. 56, p. 35-52, 2004.
+- **CUNHA, Olívia Maria Gomes da.** [*Intolerância e violência: os limites da eugenia no Brasil*](https://www.revistas.usp.br/revusp/article/view/26274). *Revista USP*, São Paulo, n. 28, p. 72-89, 1995.
+- **UNITED NATIONS.** [*Report of the International Conference on Human Rights*](https://www.ohchr.org/en/instruments-mechanisms/instruments/proclamation-tehran). Teerã, 1968.

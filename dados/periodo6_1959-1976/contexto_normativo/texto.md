@@ -1,0 +1,3 @@
+A crítica global à eugenia após a Segunda Guerra influenciou a formulação de normas internacionais voltadas à proteção dos direitos humanos. Muitas legislações passaram a rejeitar práticas como a esterilização compulsória e outras formas de intervenção coercitiva. No entanto, novos discursos sobre saúde pública e genética passaram a ocupar esse espaço, com foco na prevenção de doenças hereditárias.
+
+No Brasil, ainda que não se tenha aprovado legislação explícita com teor eugenista, políticas públicas de vacinação, controle de doenças genéticas e planejamento familiar continuaram a operar sob justificativas técnicas. Essas medidas, embora aparentemente neutras, carregavam resquícios de racionalidades excludentes herdadas da lógica eugenista.

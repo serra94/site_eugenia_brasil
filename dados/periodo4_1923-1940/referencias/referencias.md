@@ -1,0 +1,5 @@
+- [Silva, C. J., & Santos, J. F. (2024). Discurso eugênico racial na educação brasileira (1929–1933). *Revista de Estudos Aplicados em Educação*, 9.](https://doi.org/10.13037/rea-e.vol9.9465)
+- Rocha, S. *(PUC-SP)*. *Eugenia no Brasil: análise do discurso científico no Boletim de Eugenia (1929–1933).* *(Link não disponível – consultar repositórios acadêmicos ou bibliotecas digitais)*
+- [Formiga, D. O., Melo, S. C., & Paula, D. R. (2019). O pensamento eugênico e a imigração no Brasil (1929–1930). *Intelligere - Revista de História Intelectual*, 9(1), 142–159.](https://doi.org/10.11606/issn.2447-9020.intelligere.2019.142881)
+- [Briglia, R., & Wegner, R. (2014). Of plants and men: how geneticists were linked to eugenics in Brazil (1929–1938). *Asclepio*, 66(1).](https://doi.org/10.3989/asclepio.2014.17)
+- Ramatis, A. M., & Goes, L. S. (2022). *Segregação ou miscigenação: os dilemas da eugenia no Brasil nas primeiras décadas do XX*. *Revista Perspectivas*, 15(1), 131–154. *(Consultar portal da revista)*

@@ -1,0 +1,5 @@
+A Segunda Guerra Mundial (1939–1945) revelou ao mundo o ápice das práticas eugenistas com o regime nazista. A ideologia de “purificação racial” sustentou programas de esterilização forçada, eutanásia e extermínio sistemático de populações inteiras — como judeus, ciganos e deficientes físicos e mentais. Após a guerra, os julgamentos de Nuremberg evidenciaram o uso da ciência como ferramenta de opressão, levando à rejeição formal da eugenia como doutrina científica.
+
+No Brasil, esse cenário internacional coincidiu com a consolidação do Estado Novo (1937–1945). O regime de Getúlio Vargas apostava num projeto nacionalista que vinculava saúde pública, disciplina social e produtividade como pilares da modernização. A entrada do Brasil na guerra ao lado dos Aliados reforçou o discurso de progresso e de regeneração moral da população. Mesmo com a redemocratização em 1946, práticas herdadas do higienismo e da eugenia continuaram influenciando políticas públicas e discursos sobre o “cidadão ideal”.
+
+Segundo Costa (2022), “a medicina do trabalho, o saneamento e a educação sanitária passaram a operar como estratégias estatais de moralização e exclusão dos indesejáveis”.
